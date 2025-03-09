@@ -12,7 +12,7 @@ A comprehensive Python implementation of PID and LQR controllers for the Quanser
 ## Demo Video
 Check out the controller implementations in action:
 
-[![Quanser QUBE Servo 2 Demo](https://img.youtube.com/vi/YevSQ600GKA/1.jpg)](https://www.youtube.com/watch?v=YevSQ600GKA)
+[![Quanser QUBE Servo 2 Demo](https://img.youtube.com/vi/YevSQ600GKA/0.jpg)](https://www.youtube.com/watch?v=YevSQ600GKA)
 
 ## Project Overview
 
