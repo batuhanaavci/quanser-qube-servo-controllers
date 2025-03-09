@@ -5,12 +5,14 @@ A comprehensive Python implementation of PID and LQR controllers for the Quanser
 1. **Disk Module**: Angle control using PID controller
 2. **Rotary Inverted Pendulum Module**: Pendulum balancing using LQR controller
 
-![Quanser QUBE Servo 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quanser.com%2Fproducts%2Fqube-servo-2%2F&psig=AOvVaw3kHjMh0Cv2oTOFPiOTjwL8&ust=1741617928432000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9kMme_YsDFQAAAAAdAAAAABAJ)
+| Disk Module | Pendulum Module |
+|------------|----------------|
+| ![Disk Module](figs/disk_module.jpeg) | ![Pendulum Module](figs/pendulum_module.jpeg) |
 
 ## Demo Video
 Check out the controller implementations in action:
 
-[![Quanser QUBE Servo 2 Demo](https://img.youtube.com/vi/YevSQ600GKA/0.jpg)](https://www.youtube.com/watch?v=YevSQ600GKA)
+[![Quanser QUBE Servo 2 Demo](https://img.youtube.com/vi/YevSQ600GKA/1.jpg)](https://www.youtube.com/watch?v=YevSQ600GKA)
 
 ## Project Overview
 
